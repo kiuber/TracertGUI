@@ -1,0 +1,9 @@
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\bin\Debug\TracertGUI.exe.config
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\obj\Debug\TracertGUI.csprojResolveAssemblyReference.cache
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\obj\Debug\TracertGUI.Form1.resources
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\obj\Debug\TracertGUI.Properties.Resources.resources
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\obj\Debug\TracertGUI.csproj.GenerateResource.Cache
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\bin\Debug\TracertGUI.exe
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\bin\Debug\TracertGUI.pdb
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\obj\Debug\TracertGUI.exe
+D:\users\administrator\documents\visual studio 2015\Projects\TracertGUI\TracertGUI\obj\Debug\TracertGUI.pdb
